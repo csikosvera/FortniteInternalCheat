@@ -1,3 +1,4 @@
 # FortniteInternalCheat
 FortniteInternalCheat
-idk if it's working 
+compiled sc from discord u can test it 
+should be working fine
